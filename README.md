@@ -78,17 +78,14 @@ marketing-campaign-analytics/
 
 ### Dashboard Pages:
 **Page 1 — Executive Summary**
-![Executive Summary]
-(screenshots/page1.png)
+![Executive Summary] screenshots https://github.com/sunnydhingra/Marketing-Campaign-Analytics/blob/main/Page1.png
 
 **Page 2 — Channel Deep Dive**
 ![Channel Deep Dive]
 (screenshots/page2.png)
 
 **Page 3 — Audience Intelligence**
-![Audience Intelligence]
-(screenshots/page3.png)
-
+![Audience Intelligence] screenshots https://github.com/sunnydhingra/Marketing-Campaign-Analytics/blob/main/Page3.png
 ---
 
 ## 🗄️ Database Schema
