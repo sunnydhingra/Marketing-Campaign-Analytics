@@ -88,7 +88,8 @@ https://github.com/sunnydhingra/Marketing-Campaign-Analytics/blob/main/Page2.png
 **Page 3 — Audience Intelligence**
 ![Audience Intelligence]
 https://github.com/sunnydhingra/Marketing-Campaign-Analytics/blob/main/Page3.png
----
+
+
 
 ## 🗄️ Database Schema
 ```sql
