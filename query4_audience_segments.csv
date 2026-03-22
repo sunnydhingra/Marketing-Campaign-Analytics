@@ -1,0 +1,9 @@
+age_group,gender,customer_type,total_conversions,total_revenue,avg_order_value,revenue_per_conversion
+25-34,Male,New,3,9600.00,3200.00,3200.00
+18-24,Female,New,3,8500.00,2833.33,2833.33
+35-44,Female,Returning,2,8100.00,4050.00,4050.00
+45+,Female,Returning,2,7600.00,3800.00,3800.00
+35-44,Male,Returning,2,5500.00,2750.00,2750.00
+25-34,Female,New,1,5100.00,5100.00,5100.00
+45+,Male,Returning,1,4700.00,4700.00,4700.00
+18-24,Male,New,1,2600.00,2600.00,2600.00

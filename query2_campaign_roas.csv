@@ -1,0 +1,10 @@
+campaign_name,channel,objective,total_spend,total_revenue,roas,total_conversions
+Email_ReEngagement,Email,Retargeting,260.00,7700.00,29.62,2
+Email_Promo_Feb,Email,Conversion,220.00,5800.00,26.36,2
+Email_Welcome_Series,Email,Conversion,588.00,8000.00,13.61,4
+FB_Retargeting_Q1,Facebook,Retargeting,750.00,4700.00,6.27,1
+FB_Lookalike_Jan,Facebook,Conversion,3300.00,13400.00,4.06,4
+Google_Retargeting,Google,Retargeting,1200.00,3900.00,3.25,1
+FB_Video_Awareness,Facebook,Awareness,2150.00,6600.00,3.07,2
+Google_Display_Awareness,Google,Awareness,1860.00,5600.00,3.01,2
+Google_Brand_Search,Google,Conversion,16410.00,38400.00,2.34,9

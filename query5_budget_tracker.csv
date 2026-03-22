@@ -1,0 +1,10 @@
+campaign_name,channel,total_budget,actual_spend,budget_remaining,budget_utilized_pct,budget_status
+Google_Brand_Search,Google,50000.00,5470.00,44530.00,10.94,"🟢 On Track"
+FB_Lookalike_Jan,Facebook,25000.00,1650.00,23350.00,6.60,"🟢 On Track"
+Google_Display_Awareness,Google,30000.00,1860.00,28140.00,6.20,"🟢 On Track"
+FB_Video_Awareness,Facebook,35000.00,2150.00,32850.00,6.14,"🟢 On Track"
+Google_Retargeting,Google,20000.00,1200.00,18800.00,6.00,"🟢 On Track"
+Email_Welcome_Series,Email,5000.00,294.00,4706.00,5.88,"🟢 On Track"
+FB_Retargeting_Q1,Facebook,15000.00,750.00,14250.00,5.00,"🟢 On Track"
+Email_Promo_Feb,Email,3000.00,110.00,2890.00,3.67,"🟢 On Track"
+Email_ReEngagement,Email,4000.00,130.00,3870.00,3.25,"🟢 On Track"

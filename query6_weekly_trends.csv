@@ -1,0 +1,10 @@
+campaign_id,week_number,weekly_spend,weekly_clicks,prev_week_spend,wow_spend_change_pct
+1,0,5470.00,1460,NULL,NULL
+2,0,1860.00,465,NULL,NULL
+3,4,1200.00,320,NULL,NULL
+4,0,1650.00,630,NULL,NULL
+5,2,2150.00,590,NULL,NULL
+6,4,750.00,270,NULL,NULL
+7,0,294.00,392,NULL,NULL
+8,4,110.00,240,NULL,NULL
+9,8,130.00,180,NULL,NULL
